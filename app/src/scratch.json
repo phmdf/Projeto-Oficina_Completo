@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098010666648",
+    "project_id": "oficinaapp-5bd37",
+    "storage_bucket": "oficinaapp-5bd37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098010666648:android:d71ec2d390cfe8e56792ed",
+        "android_client_info": {
+          "package_name": "com.oficina.controle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Qf8ei-zgC2kwRMW2Ff314rjgmK1LOt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
